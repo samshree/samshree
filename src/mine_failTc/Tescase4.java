@@ -17,7 +17,7 @@ public class Tescase4
 	@Test
 	public void testcase()
 	{
-		//AssertJUnit.assertTrue(false);
+	
 		System.out.println("============Tc 4 ============");
 	}
 }
