@@ -19,5 +19,6 @@ public class Tescase4
 	{
 	
 		System.out.println("============Tc 4 ============");
+		System.out.println("============Tc 4 ============");
 	}
 }
