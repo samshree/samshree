@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite_1234">
+  <test name="Test_1234">
+    <classes>
+      <class name="mine_failTc.Tescase4"/>
+      <class name="mine_failTc.Tescase3"/>
+      <class name="mine_failTc.Tescase2"/>
+      <class name="mine_failTc.Tescase1"/>
+    </classes>
+  </test> <!-- Test_1234 -->
+</suite> <!-- Suite_1234 -->

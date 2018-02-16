@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite_1234" duration-ms="68" started-at="2018-02-16T08:11:38Z" finished-at="2018-02-16T08:11:38Z">
+    <groups>
+    </groups>
+    <test name="Test_1234" duration-ms="68" started-at="2018-02-16T08:11:38Z" finished-at="2018-02-16T08:11:38Z">
+      <class name="mine_failTc.Tescase1">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:mine_failTc.Tescase1@3c756e4d]" name="testcase" duration-ms="2" started-at="2018-02-16T13:41:38Z" finished-at="2018-02-16T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- mine_failTc.Tescase1 -->
+      <class name="mine_failTc.Tescase2">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:mine_failTc.Tescase2@4de8b406]" name="testcase" duration-ms="3" started-at="2018-02-16T13:41:38Z" finished-at="2018-02-16T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- mine_failTc.Tescase2 -->
+      <class name="mine_failTc.Tescase3">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:mine_failTc.Tescase3@6a2bcfcb]" name="testcase" duration-ms="2" started-at="2018-02-16T13:41:38Z" finished-at="2018-02-16T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- mine_failTc.Tescase3 -->
+      <class name="mine_failTc.Tescase4">
+        <test-method status="PASS" signature="testcase()[pri:0, instance:mine_failTc.Tescase4@174d20a]" name="testcase" duration-ms="17" started-at="2018-02-16T13:41:38Z" finished-at="2018-02-16T13:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- mine_failTc.Tescase4 -->
+    </test> <!-- Test_1234 -->
+  </suite> <!-- Suite_1234 -->
+</testng-results>
