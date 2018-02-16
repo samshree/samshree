@@ -9,6 +9,7 @@ public class Testcase5 {
 	{
 		//AssertJUnit.assertTrue(false);
 		System.out.println("============Tc 5 ============");
+		System.out.println("============Tc 5 ============");
 	}
 
 }
